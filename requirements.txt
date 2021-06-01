@@ -1,4 +1,4 @@
-ansible==2.10.0
+ansible==2.10.7
 ansible-base==2.10.1
 arrow==0.16.0
 bcrypt==3.2.0
